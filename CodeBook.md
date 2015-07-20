@@ -1,12 +1,12 @@
 # Codebook
 
-*activity
-*tBodyAccMeanX
-*tBodyAccMeanY
-*tBodyAccMeanZ
-*tBodyAccStdX
-*tBodyAccStdY
-*tBodyAccStdZ
+* activity
+* tBodyAccMeanX
+* tBodyAccMeanY
+* tBodyAccMeanZ
+* tBodyAccStdX
+* tBodyAccStdY
+* tBodyAccStdZ
 *tGravityAccMeanX
 *tGravityAccMeanY
 *tGravityAccMeanZ
