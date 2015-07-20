@@ -25,7 +25,7 @@ Original datasets can be obtained from http://archive.ics.uci.edu/ml/datasets/Hu
 
 ## Extracted and analyzed feature variables
 
-For the analysis done in the assignment, following feature variables were extracted and analyzed. In the analysis only the measurements on the mean and standard deviation for each measurement were to be extracted. From the original dataset I chose the variables containing mean() and std(). All data from the data sources was merged into one data frame. Features are normalized and bounded within [-1,1].
+For the analysis done in the assignment, following feature variables were extracted and analyzed. As requested in the assignment, in the analysis only the measurements on the mean and standard deviation for each measurement were extracted. Thus from the original dataset mean() and std() were chosen. All data from the data sources was merged into one data frame and then subset was taken. Features are normalized and bounded within [-1,1].
 
 Following variables were extracted from subject_test.txt, subject_train.txt, y_test.txt, y_train.txt and activity_labels.txt:
 
